@@ -1,2 +1,2 @@
-# StringLonginator
-Sample code illustrating a bug in the Coldfusion/.NET integrations
+# StringLoginator
+Test code illustrating a bug in the Coldfusion/.NET integrations
